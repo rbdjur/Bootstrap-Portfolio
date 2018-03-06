@@ -1,0 +1,62 @@
+.row-contact {
+  line-height: 20px;
+  margin-right: -21px;
+  margin-left: -15px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+
+.row-contact-line{
+    line-height: 20px;
+    margin-right: -21px;
+    margin-left: -15px;
+    margin-top:20px;
+    margin-bottom: 20px;
+   
+}
+
+.row-email-line{
+    line-height: 20px;
+    margin-right: -21px;
+    margin-left: -15px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.row-message-line{
+    line-height: 20px;
+    margin-right: -21px;
+    margin-left: -15px;
+    margin-top:50px;
+    margin-bottom: 100px;
+}
+
+#col-sm-5{
+    line-height: 20px;
+    margin-right: -21px;
+    margin-left: -15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:50px
+}
+
+.row-connect{
+    height:200px;
+}
+
+#connect{
+    text-align:center;
+    border:2px solid;
+    background-color: #777;
+    color:black;
+}
+
+.row-footer{
+    margin-top: 150px;
+}
+#footer{
+    text-align:center;
+}
+
+
