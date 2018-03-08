@@ -4,6 +4,7 @@
   margin-left: -15px;
   margin-top: 50px;
   margin-bottom: 100px;
+  opacity:.4;
 
 }
 
@@ -13,7 +14,6 @@
     margin-left: -15px;
     margin-top:20px;
     margin-bottom: 20px;
-   
 }
 
 .row-email-line{
@@ -32,6 +32,11 @@
     margin-bottom: 100px;
 }
 
+#send{
+
+}
+
+
 #col-sm-5{
     line-height: 20px;
     margin-right: -21px;
@@ -47,9 +52,19 @@
 
 #connect{
     text-align:center;
-    border:2px solid;
-    background-color: #777;
+    text-decoration-line: underline;    
+    background-color:;
     color:black;
+    opacity: 0.4;
+
+}
+
+#twitter{
+    margin-left: 95px;
+    margin-top: 15px;
+    margin-right: 25px;
+    height:151px;
+
 }
 
 .row-footer{
